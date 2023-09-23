@@ -1,5 +1,4 @@
-### Hi! I'm Kev! 🤸
-
+- 👋🏻 Hi! I'm Kev! 🤸
 - 🚀 I’m working through the Scrimba Front End Developer path!
 - 🌱 I’m currently re-learning HTML, CSS and JavaScript! Then moving on to React!!
 - ✨ I’m looking to collaborate on Front End projects!

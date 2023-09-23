@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Kev! 🤸
+
+- 🚀 I’m working through the Scrimba Front End Developer path!
+- 🌱 I’m currently re-learning HTML, CSS and JavaScript! Then moving on to React!!
+- ✨ I’m looking to collaborate on Front End projects!
+- ⚡ Fun fact: I used to be a Flash developer!
+- 💞 I hope you have a wonderful day!
 
 <!--
 **vigordesign/vigordesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
